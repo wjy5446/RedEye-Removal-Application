@@ -5,7 +5,7 @@
 
 
 
-![alt text](https://github.com/wjy5446/Remove-Red-Eye/blob/master/image/abstract.png){: width="50%" height="50%"}
+![alt text](https://github.com/wjy5446/Remove-Red-Eye/blob/master/image/abstract.png)
 
 
 
