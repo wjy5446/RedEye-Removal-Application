@@ -7,6 +7,17 @@
 
 
 
+- Code
+
+>C:\Users\magenta_jy\Desktop\Program\Remove-Red-Eye\app\src\main\java\com\example\vision_jy\redeyereomove2\
+>
+>- MainActivity.java
+>- RedeyeFunction_jy.java
+
+
+
+
+
 ## 1. Overall method
 
 ![alt text](https://github.com/wjy5446/Remove-Red-Eye/blob/master/image/flow-chart.png)
